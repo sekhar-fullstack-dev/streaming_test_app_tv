@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Streaming_test_app_tv" parent="@style/Theme.Leanback" />
+</resources>
